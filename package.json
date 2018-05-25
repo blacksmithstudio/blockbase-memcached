@@ -1,6 +1,6 @@
 {
   "name": "@blacksmithstudio/blockbase-memcached",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "blockbase driver for Memcached",
   "main": "driver.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org:blacksmithstudio/driver-memcached.git"
+    "url": "git+ssh://git@github.com:blacksmithstudio/blockbase-memcached.git"
   },
   "author": "Alexandre Pereira <alex@blacksmith.studio>",
   "license": "MIT",
