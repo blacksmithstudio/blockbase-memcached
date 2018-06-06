@@ -1,6 +1,6 @@
 {
   "name": "blockbase-memcached",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "blockbase driver for Memcached",
   "main": "driver.js",
   "scripts": {
