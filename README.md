@@ -2,13 +2,13 @@
 Compatible with Blockbase Framework
 
 ### Version
-0.0.2 alpha
+0.0.2
 
 ### How to install ?
 Memcached driver is really easy to use, first install it as any Blockbase driver.
 
 ```shell
-$ npm i --save @blacksmithstudio/blockbase-memcached
+$ npm i --save blockbase-memcached
 ```
 
 Then add to your config the host

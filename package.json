@@ -1,5 +1,5 @@
 {
-  "name": "@blacksmithstudio/blockbase-memcached",
+  "name": "blockbase-memcached",
   "version": "0.0.2",
   "description": "blockbase driver for Memcached",
   "main": "driver.js",
